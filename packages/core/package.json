@@ -1,6 +1,6 @@
 {
   "name": "@swj-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "佘伟杰 <sheweijie@star-net.cn>",
   "homepage": "",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "dependencies": {
-    "@swj-cli-dev/utils": "^1.0.0"
+    "@swj-cli-dev/utils": "^1.0.1"
   },
   "publishConfig": {
     "registry": "https://registry.npm.taobao.org/"
