@@ -1,6 +1,7 @@
 .idea
 .vacode
 node_modules
+.log
 
 packages/**/node_modules
 packages/**/package-lock.json
